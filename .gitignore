@@ -1,3 +1,5 @@
 *.pdf
 *.docx 
 *.docx#
+*.o
+/.vscode
